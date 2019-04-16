@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	background-color: #ffcca5;
+}
+
+.msg-block {
+	border: 1px solid #0f6674;
+	border-radius: 10px;
+	margin: 10px;
+	padding: 10px;
+	background-color: #ffdf7e;
+
+}
+
+.email {
+	color: #0f6674;
+	text-decoration-line: underline;
+}
+
+.text {
+	font-size: 1.2em;
+}
+
+.sortForm {
+	padding: 20px;
+}
+
+.status {
+	color: orangered;
+	font-weight: bold;
+}
+
+.sortForm select {
+	width: 255px;
+	height: 50px;
+	border: 1px solid #0f6674;
+	border-radius: 10px;
+}
+
+
+button {
+	margin: 10px auto;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+}
+
+.pagination {
+	font-size: 1.7em;
+	margin: 20px auto;
+}
